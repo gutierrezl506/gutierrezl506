@@ -1,9 +1,9 @@
 # 💫 Acerca de mi:
-Soy ingeniero en sistemas con énfasis en diseño y programación de aplicaciones WEB. Por 9 años me desempeñé como Jefe de sistemas en la empresa GEA de Costa Rica, también he estado a cargo del desarrollo y mejora de proyectos informáticos internacionales en 12 países de Latino América. Me gustan los retos y aprender cosas nuevas, generalmente trabajo solo aunque me adapto fácilmente a los equipos. Tengo 3 años de laborar en Perú como desarrollador en PHP iniciando como programador junior y recientemente como Coordinador de Desarrollo.![image](https://github.com/user-attachments/assets/de731afe-e889-4901-bf3b-67124c0bb02e)
+Soy ingeniero en sistemas con énfasis en diseño y programación de aplicaciones WEB. Por 9 años me desempeñé como Jefe de sistemas en la empresa GEA de Costa Rica, también he estado a cargo del desarrollo y mejora de proyectos informáticos internacionales en 12 países de Latino América. Me gustan los retos y aprender cosas nuevas, generalmente trabajo solo aunque me adapto fácilmente a los equipos. Tengo 3 años de laborar en Perú como desarrollador en PHP iniciando como programador junior y recientemente como Coordinador de Desarrollo.
 
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Luis Gutierrez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-gutierrez-castro) 
 
 # 💻 Tech Stack:
