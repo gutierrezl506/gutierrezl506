@@ -1,5 +1,6 @@
-# 💫 About Me:
-Actualmente me desempeño como programador <br>de sistemas de información utilizando las siguientes tecnologías:<br>- PHP<br>- Laravel<br>- JavaScript<br>- NodeJS <br>
+# 💫 Acerca de mi:
+Soy ingeniero en sistemas con énfasis en diseño y programación de aplicaciones WEB. Por 9 años me desempeñé como Jefe de sistemas en la empresa GEA de Costa Rica, también he estado a cargo del desarrollo y mejora de proyectos informáticos internacionales en 12 países de Latino América. Me gustan los retos y aprender cosas nuevas, generalmente trabajo solo aunque me adapto fácilmente a los equipos. Tengo 3 años de laborar en Perú como desarrollador en PHP iniciando como programador junior y recientemente como Coordinador de Desarrollo.![image](https://github.com/user-attachments/assets/de731afe-e889-4901-bf3b-67124c0bb02e)
+
 
 
 ## 🌐 Socials:
